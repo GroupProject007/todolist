@@ -85,7 +85,7 @@ int main() {
                 printf("Exiting program.\n");
                 exit(0);
             default:
-                printf("Invalid choice. Please try again.\n");
+                printf("Invalid choice. Please try again and make good choice.\n");
         }
     }
 
